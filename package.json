@@ -1,0 +1,28 @@
+{
+  "name": "ticket_robots",
+  "version": "0.5.0",
+  "description": "A robot to get accredited network data from Ticket API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ticket",
+    "va",
+    "vr",
+    "network",
+    "api"
+  ],
+  "author": {
+    "name": "Jonathan Willian",
+    "email": "jonathan.willian.tod@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akamuraasai/ticket_robots.git"
+  },
+  "dependencies": {
+    "angular" : "1.6.1"
+  }
+}
